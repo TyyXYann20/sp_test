@@ -6,5 +6,4 @@ import com.camb.roma.entity.Brand;
 
 @Repository
 public interface BrandRepository extends JpaRepository < Brand, Integer> {
-
 }
